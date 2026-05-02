@@ -1,2 +1,2 @@
-# Electric-Agent
+# Electric-Agents
 
