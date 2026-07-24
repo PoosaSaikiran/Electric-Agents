@@ -6,8 +6,6 @@ j
 j
 ji
 j
-jkk
-jk
-k
+jkkr
 f
 fc
