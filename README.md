@@ -6,8 +6,7 @@ b
 b
 c
 c
-c
-c
+cx
 c
 c
 c
